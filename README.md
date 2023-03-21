@@ -72,7 +72,7 @@ Para realizar una recomendación de una película, utilice un filtro colaborativ
 Este enfoque colaborativo se basa en la idea de que los usuarios con gustos similares calificarán de manera similar las mismas películas.
 sistema de recomnedacion con gradeo [link](http://127.0.0.1:7860/)
 ## <h2 align="center"> Video 
-[link]()
+[link](https://drive.google.com/file/d/17XfRgMiK16t49YZxQAaX1ODvzevLqQ4S/view?usp=sharing)
 
 ## <h2 align="center"> Contacto
 correo: flavio.conde92@gmail.com
